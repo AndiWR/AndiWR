@@ -25,6 +25,6 @@ just a nerd accountant trying to learn about data analysis
 
 
 
-![AndiWR's Stats](https://github-readme-stats.vercel.app/api?username=AndiWR&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)\
+![AndiWR's Stats](https://github-readme-stats.vercel.app/api?username=AndiWR&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 
