@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>Hi, I'm Andi👋 </h1>
 
 <h4>
-Aspiring data scientist with a foundation in finance, accounting, and tax, and hands-on experience in external audit across the e-commerce, F&B, and banking sectors
+Aspiring data scientist with finance, accounting, and tax experience in e-commerce and F&B, and external audit experience in the banking industry.
 
   ***
 </h4>
