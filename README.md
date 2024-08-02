@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>Hi, I'm Andi👋 </h1>
 
 <h4>
-just a nerd accountant trying to learn about data analysis
+Aspiring data scientist with a foundation in finance, accounting, and tax, and hands-on experience in external audit across the e-commerce, F&B, and banking sectors
 
   ***
 </h4>
